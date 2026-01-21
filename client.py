@@ -39,11 +39,11 @@ def start_client():
                 if not res:
                     print("\n[!] Gudang masih kosong.")
                 else:
-                    print(f"\n{'ID':<8} | {'Nama Barang':<20} | {'Kategori':<15} | {'Stok':<5}")
+                    print(f"\n{'ID':<8} | {'Nama Barang':<20} | {'Kategori':<25} | {'Stok':<5}")
                     print("-" * 60)
                     for b in res:
                         kat_str = mapping_kategori(b['id_kategori'])
-                        print(f"{b['id']:<8} | {b['nama_barang']:<20} | {kat_str:<15} | {b['stok']:<5}")
+                        print(f"{b['id']:<8} | {b['nama_barang']:<20} | {kat_str:<25} | {b['stok']:<5}")
             
             elif pilihan == '2':
                 kwd = input("Masukkan nama barang: ")
