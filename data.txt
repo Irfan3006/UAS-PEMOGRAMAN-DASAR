@@ -1,15 +1,15 @@
-1|Proyektor Mini|1|52
+1|Proyektor Mini|1|9
 2|Laptop Inventaris|1|18
-3|Printer LaserJet|1|7
-4|Router Mikrotik|2|25
-5|Switch TP-Link|2|14
-6|Kabel LAN Cat6|2|120
-7|Mouse Wireless|3|60
-8|Keyboard Mechanical|3|34
-9|Meja Kerja Staff|4|10
-10|Kursi Kantor|4|22
-11|Mikroskop Lab|5|4
-12|Power Supply Lab|5|9
-13|Proyektor Epson|6|6
-14|Kabel HDMI|7|45
-15|Rak Besi Gudang|8|8
+3|Printer Canon|1|7
+4|Monitor LED|1|12
+5|Scanner Dokumen|1|5
+6|Pulpen Hitam|2|200
+7|Buku Agenda|2|45
+8|Stapler Besar|2|20
+9|Kertas A4|2|350
+10|Map Plastik|2|80
+11|Kabel LAN|3|4
+12|Mouse|3|50
+13|Power Supply Lab|3|9
+14|Keyboard RGB|3|2
+15|Rak Besi Gudang|4|8
