@@ -3,8 +3,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-# BASE = "http://127.0.0.1:5000/api/barang # untuk lokal"
-BASE = "https://gudang-upt-amikom.streamlit.app/api/barang" # untuk deploy
+BASE = "http://127.0.0.1:5000/api/barang" # localhost server
 LIST_KATEGORI = {
     1: "Elektronik",
     2: "Alat Tulis Kantor (ATK)",
