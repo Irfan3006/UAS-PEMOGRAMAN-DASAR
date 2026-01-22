@@ -1,0 +1,5 @@
+Flask
+streamlit
+pandas
+requests
+XlsxWriter
