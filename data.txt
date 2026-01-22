@@ -1,4 +1,4 @@
-1|Proyektor Mini|1|9
+1|Proyektor Mini|1|10
 2|Laptop Inventaris|1|18
 3|Printer Canon|1|7
 4|Monitor LED|1|12
@@ -12,4 +12,5 @@
 12|Mouse|3|50
 13|Power Supply Lab|3|9
 14|Keyboard RGB|3|2
-15|Rak Besi Gudang|4|8
+15|Rak Besi Gudang|4|9
+16|Meja Kaca|4|4
