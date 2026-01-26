@@ -1,8 +1,9 @@
 # Sistem Manajemen Gudang UPT AMIKOM
 
-**Nama:** Irfan Syarifudin
+Disusun Oleh:
+1. Irfan Syarifudin (24.83.1127)
 
-**NIM:** 24.83.1127
+2. Riyan (24.83.1113)
 
 Aplikasi **Manajemen Gudang UPT AMIKOM** berbasis **Client–Server** menggunakan bahasa pemrograman **Python**.
 Sistem ini membantu petugas gudang dalam mengelola data inventaris barang secara terpusat melalui **REST API**, yang saat ini berjalan secara lokal di komputer.
