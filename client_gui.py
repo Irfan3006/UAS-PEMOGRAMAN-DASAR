@@ -54,8 +54,6 @@ st.title("📦 Sistem Gudang UPT AMIKOM (Streamlit Client)")
 
 col1, col2 = st.columns([2, 1])
 
-
-
 with col1:
     st.header("Daftar Barang")
     status, data = get_all()
@@ -113,7 +111,6 @@ with col1:
 
 with col2:
     st.header("Actions")
-    
     st.subheader("Registrasi Barang Baru")
     with st.form("form_add", clear_on_submit=True):
         id_in = st.text_input("Kode ID *")
