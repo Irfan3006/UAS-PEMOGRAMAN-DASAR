@@ -60,7 +60,7 @@ with col1:
     st.header("Daftar Barang")
     status, data = get_all()
     if status is None:
-        st.error(f"Gagal terhubung ke server: {data}")
+        st.error(f"❌ Gagal terhubung ke server: {data}")
     else:
         if not data:
             st.info("Gudang masih kosong.")
