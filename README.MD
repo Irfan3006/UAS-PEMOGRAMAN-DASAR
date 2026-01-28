@@ -5,6 +5,10 @@ Disusun Oleh:
 
 2. Riyan (24.83.1113)
 
+3. Aryo Wisang G.A. (24.83.1131)
+
+4. Eugenius D.T (24.83.1128)
+
 Aplikasi **Manajemen Gudang UPT AMIKOM** berbasis **Client–Server** menggunakan bahasa pemrograman **Python**.
 Sistem ini membantu petugas gudang dalam mengelola data inventaris barang secara terpusat melalui **REST API**, yang saat ini berjalan secara lokal di komputer.
 
